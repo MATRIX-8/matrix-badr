@@ -28,7 +28,7 @@ if number ==("1"):
    print("\033[1;91m   / \______/ \/")
    print("\033[1;91m  /    /__\ ")
    print("\033[1;91m  (\   /____\ ")
-    badr()
+   badr()
 else:
     print("\033[01;33m===> Error The Number <===")
     print("\033[01;33m[*] \033[01;34mTybe Number '1' Please ....!")
