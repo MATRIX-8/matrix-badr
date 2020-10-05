@@ -19,7 +19,15 @@ def badr():
     passwfile = open(passwfile, "r")
 number = input("\033[01;32mTybe Your Number Please .... :")
 if number ==("1"):
-    print ("\033[01;33m======> willcom <======")
+   print("\033[1;91m        ,     , ")
+   print("\033[1;91m      (\____/) ")
+   print("\033[1;91m       (_oo_) ")
+   print("\033[1;91m         (O) ")
+   print("\033[1;91m       __||__    \) ")
+   print("\033[1;91m   []/______\[] /")
+   print("\033[1;91m   / \______/ \/")
+   print("\033[1;91m  /    /__\ ")
+   print("\033[1;91m  (\   /____\ ")
     badr()
 else:
     print("\033[01;33m===> Error The Number <===")
